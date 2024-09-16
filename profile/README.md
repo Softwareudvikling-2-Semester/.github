@@ -12,7 +12,7 @@ Modtager UID fra studiekortet, og queryer vores database for oplysninger om den 
 Giver visuel feedback til den studerende, om den enkelte studerende er tjekket ind, eller om der skete fejl i løbet af processen.
 
 ### DatabaseSetup
-Opsætning af vores MySQL database
+SQL til opsætning af vores MySQL database
 
 
 
